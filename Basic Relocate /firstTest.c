@@ -6,7 +6,7 @@ int main()
     printf("Please Enter a number : ");
     scanf("%d", &num);
 
-    printf("You entered %d \n", num);
+    printf("You entered %d ", num);
     getchar();
     return 0;
 }
