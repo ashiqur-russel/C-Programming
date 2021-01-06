@@ -17,4 +17,6 @@ int main()
         printf("%d \t %d \n", fahr, celcius);
         fahr += step;
     }
+
+    printf("\n ");
 }
