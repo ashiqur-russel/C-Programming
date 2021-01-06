@@ -2,7 +2,7 @@
 
 ## Installation
 
-I have used here [cs50] (https://manual.cs50.io/) library
+Use the package manager [cs50](https://manual.cs50.io/) to install foobar.
 
 1a. Download the CS50 Library from https://github.com/cs50/libcs50/releases
 
