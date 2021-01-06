@@ -16,7 +16,9 @@ cd desktop/libcs50-10.1.0
 
 3. Still in terminal after changing directory, then run the command:
 
+```bash
 sudo make install
+```
 
 4. After installation, close terminal, go to visual studio and write your C program
 
