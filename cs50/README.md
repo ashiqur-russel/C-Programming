@@ -33,6 +33,6 @@ run your code
 int main(void)
 {
     string name = get_string("what's your name?);
-    printf("Hello", %s, answer);
+    printf("Hello, %s", answer);
 }
 ```
