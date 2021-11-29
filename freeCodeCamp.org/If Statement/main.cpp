@@ -25,7 +25,7 @@ int main()
 }
 
 //function for finiding biggest number from two number
-biggest number from two number int getMax(int num1, int num2)
+int getMax(int num1, int num2)
 {
     int result;
     if (num1 > num2)
