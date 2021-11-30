@@ -7,6 +7,12 @@ public:
     string title;
     string author;
     int pages;
+
+    // Constructor
+    Book()
+    {
+        cout << "Creating Objects" << endl;
+    }
 };
 
 int main()
